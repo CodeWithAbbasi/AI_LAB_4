@@ -1,7 +1,3 @@
-This is a professional, clean version of your **Customer Churn Prediction** README file. I have removed all personal contact information and ownership details, streamlined the formatting for better readability, and ensured the technical insights are front and center.
-
----
-
 # Customer Churn Prediction Project
 
 This project focuses on analyzing customer behavior within a telecommunications company to predict churn. By identifying at-risk customers, businesses can implement proactive retention strategies.
